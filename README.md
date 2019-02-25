@@ -55,4 +55,6 @@
 
 ## My number 1 reason for chosing SUBLIME
 
-As a beginner, I want something **user-friendly** but with enough functionalities to work in a more **advanced mode** as I'll be improving my skillls. Once I have a good command of this IDE and experiment it's updisdes and downsides, I'll be able to switch to another editor if necessary. Choosing an editor without knowing anything about programming is mostly based on reviews found on the internet and the recommendations from the people I know.
+As a beginner, I want something **user-friendly** but with enough functionalities to work in a more **advanced mode** as I'll be improving my skillls. 
+
+_Once I have a good command of this IDE and experiment its upsides and downsides, I'll be able to switch to another editor if necessary. Choosing an editor without knowing anything about programming is mostly based on reviews found on the internet and the recommendations from the people I know._
